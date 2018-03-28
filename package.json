@@ -1,0 +1,28 @@
+{
+  "name": "@ouest-france/blockprovider-runner",
+  "version": "1.2.1",
+  "description": "BlockProvider runner - Render a BlockProvider locally",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "bin": "./blockprovider-runner",
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "Francois-Guillaume Ribreau <npm@fgribreau.com> (http://fgribreau.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "common-env": "^6.1.0",
+    "express": "^4.15.3",
+    "lodash": "^4.17.4",
+    "mustache": "^2.3.0",
+    "superagent": "^3.6.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.0",
+    "jest": "^21.2.1",
+    "nodemon": "^1.11.0"
+  }
+}

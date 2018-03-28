@@ -1,0 +1,10 @@
+body {  
+  width: 100%;
+  padding: 0;
+}
+
+.block {
+  border: 4px solid #fff;
+  background: #fff;
+  width: 100%;
+}

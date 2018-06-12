@@ -1,4 +1,11 @@
-# BlockProvider-Runner - Render a BlockProvider locally
+
+# :warning: Deprecated for now
+
+### Use [infrastructure-blockprovider-runner](https://gitlab.ouest-france.fr/sipa-ouest-france/blockprovider-services/) instead. We will open-source another version for our partners in the following months :warning:
+
+
+> # BlockProvider-Runner - Render a BlockProvider locally
+
 
 ### Online demo
 
